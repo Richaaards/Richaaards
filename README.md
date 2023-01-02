@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Richaaards
 - 👀 I’m interested in frontend development
-- 🌱 I’m currently learning react native & typescript
+- 🌱 I’m currently learning Vue 3
 
 <!---
 Richaaards/Richaaards is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
