@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Richaaards
-- 👀 I’m interested in frontend development
+- 👀 I’m a frontend developer
 - 🌱 I’m currently learning Vue 3
 
 <!---
